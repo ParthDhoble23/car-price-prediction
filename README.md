@@ -67,7 +67,7 @@ RMSE
 
 🚀 How To Run The Project
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/UsedCarProject.git
+git clone https://github.com/ParthDhoble23/car-price-prediction.git
 cd UsedCarProject
 
 2️⃣ Install Dependencies
