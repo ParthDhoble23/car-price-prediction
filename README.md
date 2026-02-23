@@ -1,7 +1,10 @@
 🚗 Used Car Price Prediction
 
-A Machine Learning web application built using Streamlit that predicts the selling price of a used car based on user inputs.
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Scikit-Learn](https://img.shields.io/badge/ML-RandomForest-green)
 
+A Machine Learning web application built using Streamlit that predicts used car prices.
 📌 Project Overview
 
 This project uses a Random Forest Regressor to predict used car prices based on features like:
