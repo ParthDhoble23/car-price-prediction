@@ -84,15 +84,13 @@ Then open:
 
 http://localhost:8501
 
-📊 Model Performance
-
-(Replace this with your actual results)
-
-R² Score: 0.91
-
-MAE: 0.45
-
-RMSE: 0.68
+ 📊 Model Performance-
+ **Model Used:** Random Forest Regressor  
+ **Train/Test Split:** 80/20  
+ **R² Score:** 0.9599938850484411  
+ **MAE:** 0.63872131147541  
+ **MSE:** 0.9215642422950816  
+ **RMSE:** 0.9599813760147025  
 
 🎯 Features
 
