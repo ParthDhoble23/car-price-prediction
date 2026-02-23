@@ -113,5 +113,5 @@ Docker support
 
 👤 Author
 
-Your Name
+Parth Dhoble
 GitHub: https://github.com/ParthDhoble23
