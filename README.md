@@ -84,7 +84,8 @@ Then open:
 
 http://localhost:8501
 
- 📊 Model Performance-
+ 📊 Model Performance
+ 
  **Model Used:** Random Forest Regressor  
  **Train/Test Split:** 80/20  
  **R² Score:** 0.9599938850484411  
